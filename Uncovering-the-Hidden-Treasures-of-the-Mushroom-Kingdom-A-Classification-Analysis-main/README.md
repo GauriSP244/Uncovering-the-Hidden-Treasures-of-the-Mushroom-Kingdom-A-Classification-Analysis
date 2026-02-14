@@ -38,8 +38,7 @@ Mushroom Classifier is a deep learning-based image classification project that i
 ## Steps
 
 ### Clone Repository
-git clone https://github.com/kajalsankapal/Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis.git
-
+git clone 
 Create a Virtual Environment
 
 python -m venv venv310 source venv310/bin/activate # On Windows: venv310\Scripts\activate
@@ -122,5 +121,5 @@ AI-MUSHROOM-CLASSIFICATION/
 
 👩‍💻 Author
 
-Kajal Sankapal  
-AIML Student | Deep Learning Enthusiast
+Gauri Pawar
+DATA SCIENCE ENTUIST
