@@ -122,4 +122,4 @@ AI-MUSHROOM-CLASSIFICATION/
 👩‍💻 Author
 
 Gauri Pawar
-DATA SCIENCE ENTUIST
+Data and AIML Entuist
